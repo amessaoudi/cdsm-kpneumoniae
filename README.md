@@ -13,15 +13,13 @@ git clone https://github.com/amessaoudi/cdsm-kpneumoniae.git
 cd cdsm-kpneumoniae
 pip3 install -r requirements.txt
 
+# Web Application (Streamlit Demo)
 
-# 🌐 Web Application (Streamlit Demo)
+A fully interactive implementation of the Clinical Decision Support System (CDSM) is available online, demonstrating real-time antimicrobial resistance prediction and empirically ranked antibiotic recommendations.
 
-A fully interactive implementation of the proposed Clinical Decision Support System (CDSM) is available online.  
-This web application demonstrates real-time antimicrobial resistance prediction and empirically ranked antibiotic recommendations based on the developed AI framework.
+## Accessing the Application
 
-## 🔗 Access the Application
-
-You can access the live demo using the following link:
+The web application can be accessed using the following link:
 
 ```text
 https://cdsm-kpneumoniae-elnsyopchcqvxchueau2iu.streamlit.app/
