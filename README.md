@@ -12,3 +12,9 @@ To clone this repository to your local machine, open the terminal/command prompt
 git clone https://github.com/amessaoudi/cdsm-kpneumoniae.git
 cd cdsm-kpneumoniae
 pip3 install -r requirements.txt
+# Web Application (Streamlit Demo)
+
+The clinical decision support system can be accessed online via the following link:
+
+```text
+https://cdsm-kpneumoniae-elnsyopchcqvxchueau2iu.streamlit.app/
